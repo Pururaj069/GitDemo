@@ -19,3 +19,10 @@ print("Dvivde two numbers")
 a=int(input("Enter first number: "))
 b=int(input("Enter second number: "))
 print(a/b)
+
+##Feature 4
+print("Feature 4")
+print("Mulitplication")
+a=int(input("Enter first number: "))
+b=int(input("Enter second number: "))
+print(a*b)
